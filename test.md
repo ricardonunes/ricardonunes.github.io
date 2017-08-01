@@ -1,3 +1,0 @@
-# Test page
-
-Lorem ipsum
